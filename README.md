@@ -14,7 +14,7 @@ AetherAI is a web-based chatbot designed to handle basic conversation logic and 
 
 ---
 
-## 🖼 HTML
+## 🖼 HTML Code Snippet
 
 ```html
 <!DOCTYPE html>
@@ -39,7 +39,7 @@ AetherAI is a web-based chatbot designed to handle basic conversation logic and 
   </div>
 
   <script>
-    // Paste the JavaScript from below
+   //Javascript Code Here...
   </script>
 </body>
 </html>
